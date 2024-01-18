@@ -1,0 +1,274 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.box1 h2 {
+    color: #000;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.76px;
+    padding-left: 82px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.box1 span p {
+    width: 500px;
+    height: 100px;
+    color: #626161;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 158.5%;
+    letter-spacing: 0.18px;
+    float: right;
+    margin-right: 20px;
+}
+
+.conteiner1 {
+    width: 100%;
+    padding-top: 50px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.conteiner2 {
+    width: 100%;
+    padding-top: 50px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.box2 img {
+    width: 344px;
+    height: 215px;
+    border-radius: 20px;
+}
+
+.box2 h2 {
+    padding-top: 10px;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.4px;
+}
+
+.box2 p {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: 0.36px;
+    padding-top: 10px;
+}
+
+.box2 h3 {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.36px;
+    padding-top: 10px;
+}
+
+.box3 img {
+    width: 344px;
+    height: 215px;
+    border-radius: 20px;
+}
+
+.box3 h2 {
+    padding-top: 10px;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.4px;
+}
+
+.box3 p {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: 0.36px;
+    padding-top: 10px;
+}
+
+.box3 h3 {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.36px;
+    padding-top: 10px;
+}
+
+.box4 img {
+    width: 344px;
+    height: 215px;
+    border-radius: 20px;
+}
+
+.box4 h2 {
+    padding-top: 10px;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.4px;
+}
+
+.box4 p {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: 0.36px;
+    padding-top: 10px;
+}
+
+.box4 h3 {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.36px;
+    padding-top: 10px;
+}
+
+.box5 img {
+    width: 344px;
+    height: 215px;
+    border-radius: 20px;
+}
+
+.box5 h2 {
+    padding-top: 10px;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.4px;
+}
+
+.box5 p {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: 0.36px;
+    padding-top: 10px;
+}
+
+.box5 h3 {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.36px;
+    padding-top: 10px;
+}
+
+.box6 img {
+    width: 344px;
+    height: 215px;
+    border-radius: 20px;
+}
+
+.box6 h2 {
+    padding-top: 10px;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.4px;
+}
+
+.box6 p {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: 0.36px;
+    padding-top: 10px;
+}
+
+.box6 h3 {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.36px;
+    padding-top: 10px;
+}
+
+.box7 img {
+    width: 344px;
+    height: 215px;
+    border-radius: 20px;
+}
+
+.box7 h2 {
+    padding-top: 10px;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.4px;
+}
+
+.box7 p {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: 0.36px;
+    padding-top: 10px;
+}
+
+.box7 h3 {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: 0.36px;
+    padding-top: 10px;
+}
+
+.box8 {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    padding-top: 30px;
+}
